@@ -227,7 +227,7 @@
 <tspan x="10" y="3594">  │ │ ├── lodash.isempty@4.4.0 </tspan>
 <tspan x="10" y="3610">  │ │ ├── lodash.partition@4.6.0 </tspan>
 <tspan x="10" y="3626">  │ │ └── lodash.trim@4.5.1 </tspan>
-<tspan x="10" y="3642">  │ ├── kind-of@3.1.0 </tspan>
+<tspan x="10" y="3642">  │ ├── kind-of@3.2.0 </tspan>
 <tspan x="10" y="3658">  │ └── moment@2.18.1 </tspan>
 <tspan x="10" y="3674">  ├─┬ helper-license@0.2.1 </tspan>
 <tspan x="10" y="3690">  │ ├─┬ arr-pluck@0.1.0 </tspan>
@@ -402,10 +402,10 @@
 <tspan x="10" y="6394">  │ │ │ │ └── kind-of@1.1.0 </tspan>
 <tspan x="10" y="6410">  │ │ │ └── kind-of@2.0.1 </tspan>
 <tspan x="10" y="6426">  │ │ └── set-value@0.1.6 </tspan>
-<tspan x="10" y="6442">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="6458">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="6442">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="6458">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="6474">  │ ├─┬ en-route@0.5.0 </tspan>
-<tspan x="10" y="6490">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="6490">  │ │ ├── debug@2.6.4 </tspan>
 <tspan x="10" y="6506">  │ │ ├── kind-of@1.1.0 </tspan>
 <tspan x="10" y="6522">  │ │ ├─┬ path-to-regexp@1.7.0 </tspan>
 <tspan x="10" y="6538">  │ │ │ └── isarray@0.0.1 </tspan>
@@ -427,7 +427,7 @@
 <tspan x="10" y="6794">  │ │ └─┬ falsey@0.2.1 </tspan>
 <tspan x="10" y="6810">  │ │   └── kind-of@1.1.0 </tspan>
 <tspan x="10" y="6826">  │ ├─┬ load-templates@0.7.3 </tspan>
-<tspan x="10" y="6842">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="6842">  │ │ ├── debug@2.6.4 </tspan>
 <tspan x="10" y="6858">  │ │ ├── has-any@0.1.2 </tspan>
 <tspan x="10" y="6874">  │ │ ├─┬ has-any-deep@0.3.2 </tspan>
 <tspan x="10" y="6890">  │ │ │ └─┬ is-plain-object@1.0.0 </tspan>
