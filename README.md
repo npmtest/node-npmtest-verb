@@ -1,6 +1,6 @@
 # npmtest-verb
 
-#### test coverage for  [verb (v0.8.10)](https://github.com/verbose/verb)  [![npm package](https://img.shields.io/npm/v/npmtest-verb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-verb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-verb.svg)](https://travis-ci.org/npmtest/node-npmtest-verb)
+#### basic test coverage for  [verb (v0.8.10)](https://github.com/verbose/verb)  [![npm package](https://img.shields.io/npm/v/npmtest-verb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-verb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-verb.svg)](https://travis-ci.org/npmtest/node-npmtest-verb)
 
 #### Documentation generator for GitHub projects. Verb is extremely powerful, easy to use, and is used on hundreds of projects of all sizes to generate everything from API docs to readmes.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-verb/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-verb/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-verb/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-verb/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-verb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-verb/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-verb/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-verb/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-verb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-verb/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-verb/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-verb/build/coverage.html/index.html)
 
@@ -212,7 +212,8 @@
             ]
         }
     },
-    "version": "0.8.10"
+    "version": "0.8.10",
+    "bin": {}
 }
 ```
 
